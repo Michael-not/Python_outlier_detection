@@ -8,6 +8,9 @@ Flexible timeframe: Choose between "hour" or "minute" candlestick intervals.
 
 Outlier handling:
 "detect" → marks outliers on the chart.
-<img width="848" height="674" alt="image" src="https://github.com/user-attachments/assets/6c077b59-f79f-46da-a148-6f3e7d704dcc" />
+<img width="854" height="672" alt="image" src="https://github.com/user-attachments/assets/46b3d786-86f3-4e87-a888-1dd35fca82de" />
+
 "remove" → removes outliers before plotting.
-<img width="851" height="674" alt="image" src="https://github.com/user-attachments/assets/df73619e-67ce-48ee-be3b-e2822fc50a51" />
+the same image but with removed outliers ->
+<img width="851" height="677" alt="image" src="https://github.com/user-attachments/assets/23574a0f-2b91-4bea-bce9-e61f0821684e" />
+
