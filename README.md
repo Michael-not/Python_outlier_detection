@@ -1,4 +1,4 @@
-Stock Candlestick Simulator
+Stock Candlestick Simulator.
 This project is a simple Python simulator for intraday stock price movements with a candlestick chart visualization.
 It allows you to generate realistic stock price data, detect or remove outliers, and plot them in either hourly or minute intervals.
 Features:
